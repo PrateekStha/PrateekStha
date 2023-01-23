@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratik Shrestha</h1>
 <h3 align="center">A passionate backend developer from Kathmandu, Nepal.</h3>
 
-- 🔭 I’m currently working on **Semantro**
+- 🔭 I’m currently working on **Integrated ICT**
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [prateekshrestha.com.np/portfolio](prateekshrestha.com.np/portfolio)
+- 👨‍💻 All of my projects are available at [prateekshrestha.com.np/](prateekshrestha.com.np/)
 
 - 📝 I regularly write articles on [daily tasks](daily tasks)
 
