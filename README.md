@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [prateekshrestha.com.np/](prateekshrestha.com.np/)
+- 👨‍💻 All of my projects are available at [https://prateekshrestha.com.np/](https://prateekshrestha.com.np/)
 
-- 📝 I regularly write articles on [daily tasks](daily tasks)
+- 👨‍💻 Basic Knowledge on Linux, Python
 
 - 💬 Ask me about **react, laravel**
 
