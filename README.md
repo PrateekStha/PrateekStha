@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **pratikshrestha4444@gmail.com**
 
-- 📄 Know about my experiences [prateekshrestha.com.np/portfolio.pdf](prateekshrestha.com.np/portfolio.pdf)
+- 📄 Know about my experiences [https://prateekshrestha.com.np/](https://prateekshrestha.com.np/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
