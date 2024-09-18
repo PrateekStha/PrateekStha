@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pratik Shrestha</h1>
-<h3 align="center">A passionate backend developer from Kathmandu, Nepal.</h3>
+<h3 align="center">Developer | SysAdmin | Cybersecurity Analyst</h3>
 
-- 🔭 I’m currently working on **Integrated ICT**
+- 🔭 I’m currently working on **Handi Foods** as a SysAdmin
 
-- 🌱 Skills: **Networking: TCP/IP, VOIP, LAN/WAN, Wifi, Firewalls, DNS, DHCP, VPN, Access point, switch/router management
-IT Cloud Technologies: AWS, Microsoft Azure, Google Cloud Platform, Office 365, SharePoint
-System Administration: Windows Server management, Linux basic administration, Group Policy management antivirus and system updates, backup and recovery
-Software Proficiency: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Microsoft Defender, Ticketing Software (ServiceNow), Windows Operating System, VPN, Network troubleshooting tools, Virtualization, spam filtering, Anti-Virus
-Security tools: Wireshark, Snort, Suricata, FortiGate, Nessus, Burpsuite, Wazuh, Splunk, Snort, Autopsy
-Programming and Scripting: Python, Bash, PowerShell, C++, PHP(Laravel), Javascript, C, SQL, MySQL,ch PowerShell, Ansible
-Security Technologies: Firewalls, IDS/IPS, SIEM, Antivirus, EDR, Encryption, Vulnerability Scanning, Cloud Security**
+- 🌱 Skills:
+**Networking:** TCP/IP, VOIP, LAN/WAN, Wifi, Firewalls, DNS, DHCP, VPN, Access point, switch/router management
+**IT Cloud Technologies:** AWS, Microsoft Azure, Google Cloud Platform, Office 365, SharePoint
+**System Administration:** Windows Server management, Linux basic administration, Group Policy management antivirus and system updates, backup and recovery
+**Software Proficiency:** Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Microsoft Defender, Ticketing Software (ServiceNow), Windows Operating System, VPN, Network troubleshooting tools, Virtualization, spam filtering, Anti-Virus
+**Security tools:** Wireshark, Snort, Suricata, FortiGate, Nessus, Burpsuite, Wazuh, Splunk, Snort, Autopsy
+**Programming and Scripting:** Python, Bash, Batch Scripting, PowerShell, C++, PHP(Laravel), Javascript, C, SQL, MySQL,ch PowerShell, Ansible
+**Security Technologies:** Firewalls, IDS/IPS, SIEM, Antivirus, EDR, Encryption, Vulnerability Scanning, Cloud Security
 
 - 👨‍💻 All of my projects are available at [https://prateekshrestha.com.np/](https://prateekshrestha.com.np/)
-
-- 👨‍💻 Basic Knowledge on Linux, Python
-
-- 💬 Ask me about **react, laravel**
 
 - 📫 How to reach me **pratikshrestha4444@gmail.com**
 
